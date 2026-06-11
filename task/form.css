@@ -1,0 +1,24 @@
+body{
+    background-color: darkorchid;
+    color: floralwhite;
+}
+.shaddai{
+    width: 100%;
+    height: 34vh;
+    background-color: hotpink;
+}
+.container{
+    width: 100%;
+    height: 34vh;
+    background-color: black;
+}
+input{
+    background-color: crimson;
+    color: aqua;
+    outline: navy;
+}
+.icyu{
+    width: 50%;
+    height: 30vh;
+    background-color:palevioletred;
+}
